@@ -1,0 +1,8 @@
+{
+    "apps": [
+        {
+            "name": "resnet50_Opset17",
+            "tp": 90
+        }
+    ]
+}
