@@ -1,0 +1,5 @@
+engine_name,device,cpu,gpu,target,throughput,actual_throughput,vdd_in,vdd_cpu_gpu_cv,vdd_soc,run_gpu_freq,run_cpu0_freq,run_cpu4_freq,label
+efficientnet_b5,GPU,729600,510000000,20,,,,,,,,,App 1
+efficientvit_b3,GPU,729600,510000000,20,,,,,,,,,App 2
+resnet50_Opset17,GPU,729600,510000000,30,,,,,,,,,App 3
+yolov3-tiny-416-bs1,GPU,729600,510000000,30,,,,,,,,,App 4

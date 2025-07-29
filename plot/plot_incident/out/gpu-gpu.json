@@ -1,0 +1,37 @@
+{
+    "efficientnet_b5":{
+        "efficientnet_b5":36.8073714357,
+        "efficientvit_b3":46.7438675134,
+        "resnet50_Opset17":35.8485867264,
+        "yolo11n":34.1800522973,
+        "yolov3-tiny-416-bs1":24.1563939734
+    },
+    "efficientvit_b3":{
+        "efficientnet_b5":45.7534246575,
+        "efficientvit_b3":44.7640791476,
+        "resnet50_Opset17":36.5905631659,
+        "yolo11n":33.8812785388,
+        "yolov3-tiny-416-bs1":30.7458143075
+    },
+    "resnet50_Opset17":{
+        "efficientnet_b5":54.3112831056,
+        "efficientvit_b3":55.6475994679,
+        "resnet50_Opset17":51.6023702987,
+        "yolo11n":48.0892490023,
+        "yolov3-tiny-416-bs1":42.53234974
+    },
+    "yolo11n":{
+        "efficientnet_b5":21.1210007217,
+        "efficientvit_b3":18.6673081549,
+        "resnet50_Opset17":16.8390666346,
+        "yolo11n":23.8633630022,
+        "yolov3-tiny-416-bs1":15.2032715901
+    },
+    "yolov3-tiny-416-bs1":{
+        "efficientnet_b5":24.9837683418,
+        "efficientvit_b3":38.7482145176,
+        "resnet50_Opset17":24.6331645241,
+        "yolo11n":29.2948967667,
+        "yolov3-tiny-416-bs1":30.9310479159
+    }
+}

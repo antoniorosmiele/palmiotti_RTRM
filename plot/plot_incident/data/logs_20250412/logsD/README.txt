@@ -1,0 +1,7 @@
+efficientnet_b5:yolo11n
+efficientvit_b3:yolov3-tiny-416-bs1
+resnet50_Opset17:super_resolution_bsd500-bs1
+yolo11n:efficientnet_b5
+yolov3-tiny-416-bs1:efficientvit_b3
+super_resolution:resnet50_Opset17
+

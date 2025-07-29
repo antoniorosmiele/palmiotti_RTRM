@@ -1,0 +1,10 @@
+{
+    "resnet50_Opset17":{
+        "resnet50_Opset17":41.5446713657,
+        "yolov3-tiny-416-bs1":40.2012169408
+    },
+    "yolov3-tiny-416-bs1":{
+        "resnet50_Opset17":17.7940542869,
+        "yolov3-tiny-416-bs1":31.1934510987
+    }
+}

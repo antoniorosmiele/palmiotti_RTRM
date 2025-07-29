@@ -1,0 +1,54 @@
+wl1
+effnetb5	30
+effvitb3	30
+yolo11n		30
+
+wl2
+resnet50	30
+superres	30
+yolo3tiny	30
+
+wl3
+resnet50	60
+yolo11n		30
+yolo3tiny	30
+
+wl4
+effvitb3	30
+resnet50	90
+yolo11n		30
+
+wl5
+resnet50	120
+resnet50	60
+resnet50	60
+
+wl6
+resnet50	40
+resnet50	120
+yolo11n		30
+yolo3tiny	30
+
+wl7
+effnetb5	30
+effvitb3	30
+resnet50	60
+yolo11n		30
+
+wl8
+effnetb5	20
+effvitb3	20
+resnet50	30
+yolo3tiny	30
+
+wl9
+resnet50	30
+resnet50	60
+yolo3tiny	30
+yolo3tiny	60
+
+wl10
+resnet50	30
+resnet50	30
+yolo3tiny	30
+yolo3tiny	30

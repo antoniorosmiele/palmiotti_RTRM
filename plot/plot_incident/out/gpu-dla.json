@@ -1,0 +1,22 @@
+{
+    "efficientnet_b5":{
+        "resnet50_Opset17":34.2423110447,
+        "yolov3-tiny-416-bs1":26.1860291371
+    },
+    "efficientvit_b3":{
+        "resnet50_Opset17":35.0228310502,
+        "yolov3-tiny-416-bs1":26.8797564688
+    },
+    "resnet50_Opset17":{
+        "resnet50_Opset17":32.4525335591,
+        "yolov3-tiny-416-bs1":38.2452533559
+    },
+    "yolo11n":{
+        "resnet50_Opset17":15.251383209,
+        "yolov3-tiny-416-bs1":14.8183786384
+    },
+    "yolov3-tiny-416-bs1":{
+        "resnet50_Opset17":18.7897675627,
+        "yolov3-tiny-416-bs1":26.5030515517
+    }
+}

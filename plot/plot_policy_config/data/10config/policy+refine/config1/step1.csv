@@ -1,0 +1,4 @@
+engine_name,device,cpu,gpu,target,throughput,actual_throughput,vdd_in,vdd_cpu_gpu_cv,vdd_soc,label
+efficientnet_b5,GPU,729600,918000000,30.0,30.01,40.58,9219.55,3884.84,1913.78,App 1
+efficientvit_b3,GPU,729600,918000000,30.0,30.0,34.19,9219.55,3884.84,1913.78,App 2
+yolo11n,GPU,729600,918000000,30.0,30.0,30.03,9219.55,3884.84,1913.78,App 3

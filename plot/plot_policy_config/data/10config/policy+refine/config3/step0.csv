@@ -1,0 +1,4 @@
+engine_name,device,cpu,gpu,target,throughput,actual_throughput,vdd_in,vdd_cpu_gpu_cv,vdd_soc,label
+resnet50_Opset17,DLA0,729600,918000000,60.0,60.0,101.19,8241.08,2993.04,1886.05,App 1
+yolo11n,GPU,729600,918000000,30.0,30.0,40.13,8241.08,2993.04,1886.05,App 2
+yolov3-tiny-416-bs1,DLA0,729600,918000000,30.0,30.01,47.58,8241.08,2993.04,1886.05,App 3
